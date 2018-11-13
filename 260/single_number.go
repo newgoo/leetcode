@@ -1,4 +1,4 @@
-package _36
+package _260
 
 //暴力
 func singleNumber(nums []int) []int {
